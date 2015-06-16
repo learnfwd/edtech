@@ -1,0 +1,14 @@
+{
+  "name": "edtech",
+  "version": "1.0.0",
+  "keywords": [
+    "lfa-book"
+  ],
+  "book": {
+    "title": "LearnFwd @EdTech 2015",
+    "language": "en"
+  },
+  "engines": {
+    "lfa": "~0.7.0"
+  }
+}
